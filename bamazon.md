@@ -16,4 +16,4 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 The  demo video for this assignment can be found here:
 
 
-/Bamazon App Demo.mp4
+https://github.com/yolandamac/bamazon_app/blob/master/Bamazon%20App%20Demo.mp4
